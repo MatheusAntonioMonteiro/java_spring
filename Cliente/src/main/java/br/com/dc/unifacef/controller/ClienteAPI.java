@@ -1,4 +1,4 @@
-package br.com.dc.unifacef.api;
+package br.com.dc.unifacef.controller;
 
 import java.util.List;
 
